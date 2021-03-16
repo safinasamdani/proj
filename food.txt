@@ -6,3 +6,6 @@ Chicken
 
 pizza
 pasta
+
+fries
+nachos
